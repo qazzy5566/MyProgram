@@ -1,0 +1,9 @@
+0~89度:acute angle
+
+90度:right angle
+
+91~179度:obtuse angle
+
+180度:straight angle
+
+181~359:reflex angle
