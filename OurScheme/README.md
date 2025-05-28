@@ -1,1 +1,1 @@
-大學時期寫得直譯器(Interpreter)
+大學時期寫的直譯器(Interpreter)
