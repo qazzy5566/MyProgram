@@ -1,6 +1,7 @@
 我的碩士論文程式碼
 
 訓練資料: https://www.kaggle.com/datasets/hasyimabdillah/workoutfitness-video
+論文全文: CVGIP2024-fullpaper-word_template 楊侑霖 v.1.2.pdf  
 
 論文摘要:
 
