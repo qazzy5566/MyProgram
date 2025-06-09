@@ -23,3 +23,19 @@ our system could achieve the accuracy, precision, and recall of over 90%, which 
 performance in the dataset. In summary, our system model could yield potential solutions to detect and 
 classify human’s workout/exercise behavior, thus leading to AI coach, multimedia, human-computer 
 interaction, or other applications. 
+
+檔案說明:  
+  
+mkdir.py : 自動建22個資料夾，用來放處理過的資料  
+  
+SetVideoData.py : 把原始資料集用MediaPipe偵測產生Landmark資料，用Landmark資料來訓練  
+  
+train2.py : 主要訓練模型的程式，包含訓練測試及儲存模型、產生Loss、Accuracy、Precision、Recall、Confusion_Matrix  
+  
+confusion_matrix : 同train.py裡的Confusion_Matrix  
+  
+grid_test.py : 產生一些偵測結果的圖片  
+  
+image_grid.py : 產生一些原始訓練資料的圖片  
+  
+Final_test : 最後測試模型，輸入影片從MediaPipe生成Landmark到模型預測，然後輸出結果  
