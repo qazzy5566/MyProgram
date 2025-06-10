@@ -5,4 +5,13 @@
 
 1.cons 和 list : Constructors  
 ![image](https://github.com/qazzy5566/MyProgram/blob/f5cb38a4c86b15e8b2f78bc33189ce6a8bd0e090/OurScheme/img/1.cons.png)  
+![image](https://github.com/qazzy5566/MyProgram/blob/829c767e885db395a2db8641ce9fda71332c28a8/OurScheme/img/3.list.png)  
   
+2.define : 定義物件  
+![image](https://github.com/qazzy5566/MyProgram/blob/829c767e885db395a2db8641ce9fda71332c28a8/OurScheme/img/2.define.png)  
+![image](https://github.com/qazzy5566/MyProgram/blob/829c767e885db395a2db8641ce9fda71332c28a8/OurScheme/img/2.define_error.png)  
+  
+3.結合 1. 和 2. 的指令  
+![image](https://github.com/qazzy5566/MyProgram/blob/829c767e885db395a2db8641ce9fda71332c28a8/OurScheme/img/combine123.png)  
+![image](https://github.com/qazzy5566/MyProgram/blob/829c767e885db395a2db8641ce9fda71332c28a8/OurScheme/img/combine123_2.png)  
+![image](https://github.com/qazzy5566/MyProgram/blob/829c767e885db395a2db8641ce9fda71332c28a8/OurScheme/img/combine123_3.png)  
