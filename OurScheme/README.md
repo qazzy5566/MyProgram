@@ -52,7 +52,7 @@ equal?, on the other hand, is the usual notion of equality comparison.
 ![image](https://github.com/qazzy5566/MyProgram/blob/796e718bf6f79256e7fb77b0f47dc94473472143/OurScheme/img/9.condition5.png)  
   
 ## 11. 一些指令組合  
-begin : 去最右邊的值  
+begin : 取最右邊的值  
 ![image](https://github.com/qazzy5566/MyProgram/blob/8c7bf24cc5504e487fd2aa01b8629cb218f19bef/OurScheme/img/10.composition.png)  
 ![image](https://github.com/qazzy5566/MyProgram/blob/8c7bf24cc5504e487fd2aa01b8629cb218f19bef/OurScheme/img/10.composition2.png)  
   
