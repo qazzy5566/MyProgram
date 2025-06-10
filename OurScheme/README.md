@@ -52,3 +52,25 @@ equal?, on the other hand, is the usual notion of equality comparison.
 ![image](https://github.com/qazzy5566/MyProgram/blob/796e718bf6f79256e7fb77b0f47dc94473472143/OurScheme/img/9.condition4.png)  
 ![image](https://github.com/qazzy5566/MyProgram/blob/796e718bf6f79256e7fb77b0f47dc94473472143/OurScheme/img/9.condition5.png)  
   
+## 11. 一些指令組合  
+begin : 去最右邊的值  
+![image](https://github.com/qazzy5566/MyProgram/blob/8c7bf24cc5504e487fd2aa01b8629cb218f19bef/OurScheme/img/10.composition.png)  
+![image](https://github.com/qazzy5566/MyProgram/blob/8c7bf24cc5504e487fd2aa01b8629cb218f19bef/OurScheme/img/10.composition2.png)  
+  
+## 12. clean environment  
+![image](https://github.com/qazzy5566/MyProgram/blob/8c7bf24cc5504e487fd2aa01b8629cb218f19bef/OurScheme/img/11.clean.png)  
+  
+## 13. define變數為內建函數  
+![image](https://github.com/qazzy5566/MyProgram/blob/8c7bf24cc5504e487fd2aa01b8629cb218f19bef/OurScheme/img/12.other_define.png)  
+  
+## 14. let : 定義一些變數(locally)，然後執行
+![image](https://github.com/qazzy5566/MyProgram/blob/8c7bf24cc5504e487fd2aa01b8629cb218f19bef/OurScheme/img/13.let.png)  
+![image](https://github.com/qazzy5566/MyProgram/blob/8c7bf24cc5504e487fd2aa01b8629cb218f19bef/OurScheme/img/13.let2.png)  
+  
+## 15. lambda  
+![image](https://github.com/qazzy5566/MyProgram/blob/8c7bf24cc5504e487fd2aa01b8629cb218f19bef/OurScheme/img/14.lambda.png)  
+![image](https://github.com/qazzy5566/MyProgram/blob/8c7bf24cc5504e487fd2aa01b8629cb218f19bef/OurScheme/img/14.lambda2.png)  
+![image](https://github.com/qazzy5566/MyProgram/blob/8c7bf24cc5504e487fd2aa01b8629cb218f19bef/OurScheme/img/14.define_lambda.png)  
+  
+## 16. 結束程式 (exit)  
+![image](https://github.com/qazzy5566/MyProgram/blob/8c7bf24cc5504e487fd2aa01b8629cb218f19bef/OurScheme/img/END.png)  
