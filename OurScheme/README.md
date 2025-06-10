@@ -69,7 +69,7 @@ begin : 取最右邊的值
 ## 15. lambda  
 ![image](https://github.com/qazzy5566/MyProgram/blob/8c7bf24cc5504e487fd2aa01b8629cb218f19bef/OurScheme/img/14.lambda.png)  
 ![image](https://github.com/qazzy5566/MyProgram/blob/8c7bf24cc5504e487fd2aa01b8629cb218f19bef/OurScheme/img/14.lambda2.png)  
-![image](https://github.com/qazzy5566/MyProgram/blob/8c7bf24cc5504e487fd2aa01b8629cb218f19bef/OurScheme/img/14.define_lambda.png)  
+![image](https://github.com/qazzy5566/MyProgram/blob/8c7bf24cc5504e487fd2aa01b8629cb218f19bef/OurScheme/img/15.define_lambda.png)  
   
 ## 16. 結束程式 (exit)  
 ![image](https://github.com/qazzy5566/MyProgram/blob/8c7bf24cc5504e487fd2aa01b8629cb218f19bef/OurScheme/img/END.png)  
