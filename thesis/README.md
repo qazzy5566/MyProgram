@@ -32,7 +32,7 @@ SetVideoData.py : 把原始資料集用MediaPipe偵測產生Landmark資料，用
   
 train2.py : 主要訓練模型的程式，包含訓練測試及儲存模型、產生Loss、Accuracy、Precision、Recall、Confusion_Matrix  
   
-confusion_matrix : 同train.py裡的Confusion_Matrix  
+confusion_matrix : 同train2.py裡的Confusion_Matrix  
   
 grid_test.py : 產生一些偵測結果的圖片  
   
