@@ -39,4 +39,16 @@
 ## 8. String操作  
 ![image](https://github.com/qazzy5566/MyProgram/blob/c73af81f430482ff213e890477f288e31b2b4d22/OurScheme/img/7.string.png)  
   
-## 9.  
+## 9.  eqv? 和 equal?  
+eqv? returns "true" only when the two being compared objects are atoms (except in the case of strings)  
+or when the two being compared objects "occupy the same memory space".  
+equal?, on the other hand, is the usual notion of equality comparison.  
+![image](https://github.com/qazzy5566/MyProgram/blob/796e718bf6f79256e7fb77b0f47dc94473472143/OurScheme/img/8.eq.png)  
+  
+## 10. condition 條件式  
+![image](https://github.com/qazzy5566/MyProgram/blob/796e718bf6f79256e7fb77b0f47dc94473472143/OurScheme/img/9.condition.png)  
+![image](https://github.com/qazzy5566/MyProgram/blob/796e718bf6f79256e7fb77b0f47dc94473472143/OurScheme/img/9.condition2.png)  
+![image](https://github.com/qazzy5566/MyProgram/blob/796e718bf6f79256e7fb77b0f47dc94473472143/OurScheme/img/9.condition3.png)  
+![image](https://github.com/qazzy5566/MyProgram/blob/796e718bf6f79256e7fb77b0f47dc94473472143/OurScheme/img/9.condition4.png)  
+![image](https://github.com/qazzy5566/MyProgram/blob/796e718bf6f79256e7fb77b0f47dc94473472143/OurScheme/img/9.condition5.png)  
+  
