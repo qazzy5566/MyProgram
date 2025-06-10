@@ -28,3 +28,15 @@
 ![image](https://github.com/qazzy5566/MyProgram/blob/99c51a98c8a3b9f3af41c20270a23d3a1de75dba/OurScheme/img/6.2.png)  
 ![image](https://github.com/qazzy5566/MyProgram/blob/99c51a98c8a3b9f3af41c20270a23d3a1de75dba/OurScheme/img/6.3.png)  
   
+## 6. 算術運算  
+![image](https://github.com/qazzy5566/MyProgram/blob/c73af81f430482ff213e890477f288e31b2b4d22/OurScheme/img/7.arithmetic.png)  
+![image](https://github.com/qazzy5566/MyProgram/blob/c73af81f430482ff213e890477f288e31b2b4d22/OurScheme/img/7.arithmetic2.png)  
+  
+## 7. 邏輯運算  
+![image](https://github.com/qazzy5566/MyProgram/blob/c73af81f430482ff213e890477f288e31b2b4d22/OurScheme/img/7.logical.png)  
+![image](https://github.com/qazzy5566/MyProgram/blob/c73af81f430482ff213e890477f288e31b2b4d22/OurScheme/img/8.and_or.png)  
+  
+## 8. String操作  
+![image](https://github.com/qazzy5566/MyProgram/blob/c73af81f430482ff213e890477f288e31b2b4d22/OurScheme/img/7.string.png)  
+  
+## 9.  
